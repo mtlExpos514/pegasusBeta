@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://C:\\Users\\Pegasus\\Downloads\\basketball-training-web-v4",
+            "request": "launch",
+            "url": "http://C:\\Users\\Pegasus\\Downloads\\basketball-training-web-v4"
+        }
+    ]
+}
